@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.1</version>
+    <title>$title$</title>
+    <authors>Andreas Alminde</authors>
+    <owners>PMD Project</owners>
+    <description>Bootstrapper to creation of Windows Service</description>
+    <releaseNotes>Initial release. 
+        OBS. Remember to add 'Service.Name' and 'Service.Description' in App/Web.config
+    </releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
