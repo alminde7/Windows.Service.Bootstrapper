@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using Topshelf;
+﻿using Topshelf;
 
 namespace Pmd.WindowsService
 {
