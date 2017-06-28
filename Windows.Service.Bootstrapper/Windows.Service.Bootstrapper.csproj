@@ -7,8 +7,8 @@
     <ProjectGuid>{751F2367-0790-4DC0-A39C-B73BC9E26B23}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pmd.WindowsService</RootNamespace>
-    <AssemblyName>Pmd.WindowsService</AssemblyName>
+    <RootNamespace>Windows.Service.Bootstrapper</RootNamespace>
+    <AssemblyName>Windows.Service.Bootstrapper</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
