@@ -1,4 +1,5 @@
-﻿using Topshelf;
+﻿using System.Security.Cryptography.X509Certificates;
+using Topshelf;
 
 namespace Pmd.WindowsService
 {
@@ -26,6 +27,8 @@ namespace Pmd.WindowsService
                 x.SetServiceName(ServiceConfig.ServiceName);
                 x.SetDescription(ServiceConfig.ServiceDescription);
                 x.SetDisplayName(ServiceConfig.ServiceName);
+
+                x.StartAutomatically();
             });
         }
     }
