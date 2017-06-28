@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Pmd.WindowsService
+namespace Windows.Service.Bootstrapper
 {
     public class ServiceConfig
     {

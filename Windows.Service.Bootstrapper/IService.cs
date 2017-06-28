@@ -1,4 +1,4 @@
-namespace Pmd.WindowsService
+namespace Windows.Service.Bootstrapper
 {
     public interface IService
     {

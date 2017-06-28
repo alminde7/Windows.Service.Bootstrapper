@@ -1,6 +1,6 @@
 ﻿using Topshelf;
 
-namespace Pmd.WindowsService
+namespace Windows.Service.Bootstrapper
 {
     public class Service
     {
