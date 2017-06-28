@@ -31,3 +31,10 @@ public class Service : IService
     }
 }
 ```
+
+```xml
+  <appSettings>
+    <add key="Service.Name" value="Name of Service" />
+    <add key="Service.Description" value="Description of service" />
+  </appSettings>
+```
